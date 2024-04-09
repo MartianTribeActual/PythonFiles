@@ -8,9 +8,9 @@ class ConfluenceManager:
 
 	#set up headers for confluence access for both stitcher and kargo
 
+	#change this with new auth
 	strCommerceAuth = 'Basic c3N1cmFuaWVAa2FyZ28uY29tOkFUQVRUM3hGZkdGMDhfNVJKNlhfUzd2dmlhVmxwd0wyMU5xRmg2SHB0NEZJZjZWaXBONEN0M0VocXJoYW9raEJObDJTOE5Lamo5NWtuZzNuNG8yamtBNlhnVzNDM3RXWThjRERrM0htc1BMS2s2REFNaWJaS1A4VjZjdjlETG9jZWN3TEoyVFpyOEhraGRrM2oyal9TQWRhVmRDS1A1VnBxNHZQR2ZkbDhueFFFOXpYcVM4T2NtTT0zQUQyNTRCNQ=='
 
-	strKargoAuth = 'Basic a3RjQGthcmdvLmNvbTpldVFvbXhwd3RtaGpBUUh1UW10VDVBNjQ='
 
 	#methods
 
